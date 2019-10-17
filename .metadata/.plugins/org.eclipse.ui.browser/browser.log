@@ -1,0 +1,13 @@
+
+Oct 16, 2019 13:59:35.64 NEW SESSION
+Oct 16, 2019 13:59:36.15 [8152:4544:1016/135931.425:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Oct 16, 2019 13:59:36.27 [8152:4544:1016/135931.425:ERROR:checkin_request.cc(225)] Failed to get checkin response. Fetcher failed. Retrying.
+Oct 16, 2019 13:59:56.89 [8152:4544:1016/135956.838:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Oct 16, 2019 13:59:59.15 [8152:4544:1016/135959.096:ERROR:checkin_request.cc(225)] Failed to get checkin response. Fetcher failed. Retrying.
+Oct 16, 2019 14:00:41.20 [8152:4544:1016/140041.207:ERROR:checkin_request.cc(225)] Failed to get checkin response. Fetcher failed. Retrying.
+Oct 16, 2019 14:00:49.97 [8152:4544:1016/140049.973:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Oct 16, 2019 14:02:01.62 [8152:4544:1016/140201.622:ERROR:checkin_request.cc(225)] Failed to get checkin response. Fetcher failed. Retrying.
+Oct 16, 2019 14:02:26.89 [8152:4544:1016/140226.898:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Oct 16, 2019 14:03:14.62 [8152:5764:1016/140314.627:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Oct 16, 2019 14:03:42.13 [8152:4544:1016/140342.137:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Oct 16, 2019 14:03:42.14 [8152:5764:1016/140342.141:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.

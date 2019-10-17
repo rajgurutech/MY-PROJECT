@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+C:\MY PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2888688390.index
+\Ecommerce_Fd_ILT\src\main\resources
+C:\MY PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\578171598.index
+\Ecommerce_Fd_ILT\src\main\java
+F:\MY PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2888688390.index
+\Ecommerce_Fd_ILT\src\main\resources
+F:\MY PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\578171598.index
+\Ecommerce_Fd_ILT\src\main\java

@@ -1,0 +1,18 @@
+package com.niit.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HomeController 
+{
+	@RequestMapping("/")
+	public ModelAndView index()
+	{
+		ModelAndView m1=new ModelAndView("index");
+		return m1;
+		
+	}
+	
+	
+
+}

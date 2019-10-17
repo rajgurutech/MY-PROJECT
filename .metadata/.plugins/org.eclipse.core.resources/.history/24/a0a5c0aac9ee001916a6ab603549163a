@@ -1,0 +1,13 @@
+
+public class HomeController 
+{
+	@RequestMapping("/")
+	public ModelAndView index()
+	{
+		ModelAndView m1=new ModelAndView("index");
+		return m1;
+		
+	}
+	
+
+}

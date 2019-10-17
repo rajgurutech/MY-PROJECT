@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Oct/2019:13:57:40 -0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Oct/2019:13:59:15 -0800] "GET /Ecommerce_Fd_ILT/ HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [16/Oct/2019:13:59:18 -0800] "GET /Ecommerce_Fd_ILT/resources/images/img2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Oct/2019:13:59:18 -0800] "GET /Ecommerce_Fd_ILT/resources/images/img1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Oct/2019:13:59:19 -0800] "GET /Ecommerce_Fd_ILT/resources/images/img3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Oct/2019:13:59:22 -0800] "GET /favicon.ico HTTP/1.1" 404 1016
